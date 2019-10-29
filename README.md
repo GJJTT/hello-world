@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个存储库
+我喜欢这和东西我想看看这美好世界
